@@ -3,7 +3,7 @@
 ## Problem Statement: 
 How to convert a Normal JSON format to a String Literal JSON format in Boomi?
 
-Normal JSON Format:
+**Normal JSON Format:**
 ```
 {
   "id": "101",
@@ -12,7 +12,7 @@ Normal JSON Format:
 }
 ```
 
-String Literal JSON Format:
+**String Literal JSON Format:**
 
 ```
 {\"id\":\"101\",\"name\":\"Ayan Kumar Pan",\"department\":\"IT\"}
