@@ -6,7 +6,7 @@ How to convert a Normal JSON format to a String Literal JSON format in Boomi?
 **Normal JSON Format:**
 ```
 {
-  "id": "101",
+  "id": "1",
   "name": "Ayan Kumar Pan",
   "department": "IT"
 }
@@ -15,7 +15,7 @@ How to convert a Normal JSON format to a String Literal JSON format in Boomi?
 **String Literal JSON Format:**
 
 ```
-{\"id\":\"101\",\"name\":\"Ayan Kumar Pan",\"department\":\"IT\"}
+{\"id\":\"1\",\"name\":\"Ayan Kumar Pan",\"department\":\"IT\"}
 ```
 
 ## Business Use-Case: 
