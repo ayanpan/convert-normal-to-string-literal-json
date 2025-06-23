@@ -1,4 +1,4 @@
-<img width="721" alt="image" src="https://github.com/user-attachments/assets/7674f9bd-c5be-4eb7-b961-81b28367fe8c" /># Convert Normal JSON to String Literal JSON in Boomi
+# Convert Normal JSON to String Literal JSON in Boomi
 
 ## Problem Statement: 
 How to convert a Normal JSON format to a String Literal JSON format in Boomi?
