@@ -24,27 +24,15 @@ There can be a business requirement to consume a Normal JSON from a boundary app
 ## Solution:
 **Step-1:** Add a Data Process Shape and add 3 Search/Replace Processing Steps.
 
-**Step-2:** Select first Search/Replace Processing Step.
-
-Text To Find: "
-
-Replace With: \\\"
+**Step-2:** Select the first Search/Replace Processing Step with below options.
 
 <img width="721" alt="image" src="https://github.com/user-attachments/assets/a0de7677-f314-4246-a48a-6fe200203abf" />
 
-**Step-3:** Select send Search/Replace Processing Step.
-
-Text To Find: [\n\r]
-
-Replace With: 
+**Step-3:** Select the second Search/Replace Processing Step with below options.
 
 <img width="721" alt="image" src="https://github.com/user-attachments/assets/965422e4-f594-4998-bf82-d221341eb9a7" />
 
-**Step-4:** Select first Search/Replace Processing Step.
-
-Text To Find: \s\s+
-
-Replace With: 
+**Step-4:** Select the third Search/Replace Processing Step with below options.
 
 <img width="721" alt="image" src="https://github.com/user-attachments/assets/6e59e963-8ac7-4aa4-8f95-cbc75d49f334" />
 
